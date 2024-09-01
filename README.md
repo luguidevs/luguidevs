@@ -1,7 +1,7 @@
 
 
 ### Olá, eu sou o Luiz Guilherme! 👋🏻 
-<p>Sou programador front-end júnior, com forte curiosidade por novas tecnologias e focado em evoluir cada vez mais 😄</p>
+<p>Sou programador front-end júnior, com forte curiosidade por novas tecnologias e focado em evoluir cada vez mais! 😄</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizzguii1/)
 
